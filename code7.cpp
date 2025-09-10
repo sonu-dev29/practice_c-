@@ -4,5 +4,5 @@ int main(){
     string name;
     cout<<"enter your name:";
     cin>>name;
-    cout<<"enter your name:"<<name<<std::endl;
+    cout<<"enter your name:"<<name<<endl;
 }
