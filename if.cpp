@@ -1,15 +1,12 @@
 #include<iostream>
 using namespace std;
 int main(){
-int age;
-cout<<"enter your age"<<endl;
-cin>>age;
-if(age> 18){
-    cout<<"you can vot";
-}
-else{
-    cout<<"you cannot vot";
-}
-
-return 0;
+    int a=2,c=6;
+    if(2>6){
+        cout<<"six graterthan tow"<<endl;
+    }
+    else{
+        cout<<"six less than two"<<endl;
+    }
+    return 0;
 }
